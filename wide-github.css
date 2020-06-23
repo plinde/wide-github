@@ -1,3 +1,7 @@
+# some h4x to make this work w/ GitHub post-2020.06.23; sorry, not sorry
+div.container-xl { max-width:9000px!important;}
+article.container-lg { max-width:9000px!important;}
+
 body:not(.wgh-disabled) .application-main .container {
   width: auto !important;
   padding-left: 16px !important;
